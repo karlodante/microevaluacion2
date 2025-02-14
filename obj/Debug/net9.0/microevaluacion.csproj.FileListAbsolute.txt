@@ -1,0 +1,14 @@
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.AssemblyInfoInputs.cache
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.AssemblyInfo.cs
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.csproj.CoreCompileInputs.cache
+C:\Users\xydar\u\avanzada\microevaluacion\bin\Debug\net9.0\microevaluacion.exe
+C:\Users\xydar\u\avanzada\microevaluacion\bin\Debug\net9.0\microevaluacion.deps.json
+C:\Users\xydar\u\avanzada\microevaluacion\bin\Debug\net9.0\microevaluacion.runtimeconfig.json
+C:\Users\xydar\u\avanzada\microevaluacion\bin\Debug\net9.0\microevaluacion.dll
+C:\Users\xydar\u\avanzada\microevaluacion\bin\Debug\net9.0\microevaluacion.pdb
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.dll
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\refint\microevaluacion.dll
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.pdb
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.genruntimeconfig.cache
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\ref\microevaluacion.dll
