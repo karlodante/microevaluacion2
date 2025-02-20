@@ -12,3 +12,4 @@ C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\refint\microevaluacio
 C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.pdb
 C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.genruntimeconfig.cache
 C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\ref\microevaluacion.dll
+C:\Users\xydar\u\avanzada\microevaluacion\obj\Debug\net9.0\microevaluacion.sourcelink.json
